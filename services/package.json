@@ -1,0 +1,16 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "main": "hashlockService.js",
+  "scripts": {
+    "start": "node ./hashlockService.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "ethers": "^5.7.2"
+  }
+}
