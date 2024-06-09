@@ -4,5 +4,5 @@
 ### Hashlock contract deployed on Citrea at 0x18C7a691d690D04b4605987999c85855de0cE9Bc
 
 ### Run hashlock service:
-- cd sercives && nom i
+- cd sercives && npm i
 - npm run start
